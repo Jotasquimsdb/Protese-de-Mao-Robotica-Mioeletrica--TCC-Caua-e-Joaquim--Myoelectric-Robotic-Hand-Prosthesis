@@ -1,0 +1,293 @@
+#style-7.mc4wp-form .mc4wp-form-fields input[type="email"] {
+  -webkit-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+}
+
+#style-10.mc4wp-form .mc4wp-form-fields input[type="email"] {
+  background-color: var(--theme-color-alter_bg_hover) !important;
+}
+
+.search-no-results .page_content_wrap {
+  background-color: inherit !important;
+}
+
+.trx_addons_alter_text {
+  font-weight: 500;
+}
+
+.menu_mobile .sc_layouts_logo img {
+  max-width: 90%;
+}
+
+body .booked-calendar-wrap.small .booked-appt-list {
+  max-height: 180px !important;
+}
+
+body .booked-calendar-wrap .booked-appt-list .timeslot .spots-available {
+  font-weight: 300;
+}
+
+.sc_services_strong .sc_services_item.with_image .sc_services_item_content:before {
+  opacity: .3;
+}
+.sc_services_strong .sc_services_item.with_image:hover .sc_services_item_content:after {
+  opacity: .4;
+}
+
+.sc_services_accent .sc_services_item_pictogram {
+  font-size: 2.2em;
+}
+
+.sc_icons_motley .sc_icons_item .sc_icons_item_more_link {
+  margin-bottom: -20px;
+}
+.sc_icons_motley .sc_icons_icon + .sc_icons_item_details,
+.sc_icons_motley .sc_icons_image + .sc_icons_item_details {
+  margin-top: 1.6em;
+}
+
+.extra-size-skills .sc_skills_counter_alter .sc_skills_item_title {
+  color: var(--theme-color-text_dark);
+}
+
+.sc_icons_alter .sc_icons_image img {
+  max-width: 4.6em;
+}
+
+.sc_icons_plain .sc_icons_item .sc_icons_item_more_link {
+  font-weight: 400;
+}
+
+.sc_icons_item_description {
+  font-size: 17px;
+}
+
+.sc_layouts_cart:not(.modern) .sc_layouts_cart_widget .total {
+  border-color: var(--theme-color-bd_color) !important;
+}
+
+.sc_layouts_cart:not(.modern) .sc_layouts_cart_widget .widget_shopping_cart .buttons a {
+  font-size: 13px;
+}
+
+.woocommerce table.shop_table td,
+.woocommerce div.product form.cart div.quantity input[type="number"],
+.woocommerce-page div.product form.cart div.quantity input[type="number"],
+.woocommerce .shop_table.cart div.quantity input[type="number"],
+.woocommerce-page .shop_table.cart div.quantity input[type="number"],
+.woocommerce .cart_totals table.shop_table tr td, .woocommerce .cart_totals table.shop_table tr th,
+.woocommerce .woocommerce-cart-form table.shop_table .cart-coupon-inner,
+.woocommerce-form-coupon .cart-coupon-inner {
+  border-color: var(--theme-color-bd_color) !important;
+}
+
+.sc_team_alter .sc_team_item_thumb + .sc_team_item_info {
+  margin-top: 18px;
+}
+
+.map_marker_2:before {
+  color: var(--theme-color-text_link);
+}
+
+.button_bg_icon_color .sc_button_icon {
+  background-color: var(--theme-color-alter_bg_color);
+}
+
+#style-6.mc4wp-form label {
+  color: var(--theme-color-text);
+}
+#style-6.mc4wp-form input[type="checkbox"] + label:before {
+  border-color: var(--theme-color-text) !important;
+}
+
+div.wpcf7 .form-style-4.appointment-form span.wpcf7-not-valid-tip {
+  bottom: -5px;
+}
+div.wpcf7 .form-style-4.appointment-form h3 {
+  margin: 0 0 20px 0;
+}
+div.wpcf7 .form-style-4.appointment-form .des {
+  margin-bottom: 28px;
+}
+div.wpcf7 .form-style-4.appointment-form > div {
+  margin-bottom: 15px;
+}
+div.wpcf7 .form-style-4.appointment-form > div.last {
+  margin-bottom: 30px;
+}
+div.wpcf7 .form-style-4.appointment-form .select_container,
+div.wpcf7 .form-style-4.appointment-form textarea,
+div.wpcf7 .form-style-4.appointment-form input:not([type="submit"]):not([type="radio"]):not([type="checkbox"]) {
+  -webkit-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+}
+div.wpcf7 .form-style-4.appointment-form + div.wpcf7-response-output {
+  margin: 20px 0 0;
+}
+
+.sc_price_metro .sc_price_item_description ul li:before,
+.sc_price_metro .sc_price_item_details ul li:before {
+  color: var(--theme-color-alter_link2);
+}
+
+.sc_testimonials_plain .sc_testimonials_item_author_data .sc_testimonials_item_author_subtitle,
+.sc_testimonials_plain .sc_testimonials_item_author_data .sc_testimonials_item_author_title + .sc_testimonials_item_author_subtitle {
+  color: var(--theme-color-text);
+}
+
+.sc_socials.sc_socials_icons_names .socials_wrap .social_item .social_icon + .social_name,
+.social_item.social_item_type_names .social_name {
+  font-family: inherit;
+}
+
+.footer_wrap .sc_layouts_row_type_compact .sc_socials.sc_socials_names:not(.alter) .socials_wrap .social_item + .social_item {
+  margin-top: 14px;
+}
+
+.twenty20 {
+  margin-bottom: 0;
+}
+
+@media (max-width: 1279px) {
+  .sc_icons .sc_icons_item_description {
+    font-size: 16px;
+  }
+
+  .sc_testimonials_plain .sc_item_slider.slider_outer_pagination_pos_bottom_outside .swiper-pagination,
+  .sc_testimonials_plain .sc_item_slider.slider_outer_pagination_pos_bottom .swiper-pagination {
+    margin-top: 2em;
+  }
+
+  .sc_services .sc_services_item_content {
+    font-size: 16px;
+  }
+
+  .sc_services_panel .sc_services_item:before {
+    padding-top: 100%;
+  }
+
+  .sc_services_panel .trx_addons_column-1_2-tablet .sc_services_item:before {
+    padding-top: 60%;
+  }
+
+  .sc_services_strange .sc_services_item_text {
+    font-size: 16px;
+  }
+
+  .sc_icons_divider3 .sc_icons_item {
+    padding: 2.7em 1.5em;
+  }
+
+  .sc_icons_creative .sc_icons_icon + .sc_icons_item_details,
+  .sc_icons_creative .sc_icons_image + .sc_icons_item_details {
+    margin-top: 1.6em;
+  }
+
+  .sc_icons_motley .sc_icons_item .sc_icons_item_more_link {
+    margin-bottom: -15px;
+  }
+  .sc_icons_motley .sc_icons_icon + .sc_icons_item_details,
+  .sc_icons_motley .sc_icons_image + .sc_icons_item_details {
+    margin-top: 1.3em;
+  }
+}
+@media (max-width: 1023px) {
+  body .booked-calendar-wrap.small table.booked-calendar .booked-appt-list {
+    padding: 10px 15px;
+    border-width: 5px;
+  }
+
+  body .booked-calendar-wrap .booked-calendar .booked-appt-list .timeslot {
+    padding: 10px 0;
+  }
+
+  .sc_testimonials_plain .sc_item_slider.slider_outer_pagination_pos_bottom_outside .swiper-pagination,
+  .sc_testimonials_plain .sc_item_slider.slider_outer_pagination_pos_bottom .swiper-pagination {
+    margin-top: 1em;
+  }
+
+  .sc_testimonials_hover .slider_outer.slider_outer_pagination_pos_bottom_outside .swiper-pagination-bullets,
+  .sc_testimonials_hover .sc_item_slider.slider_outer_pagination_pos_bottom .swiper-pagination {
+    margin-top: 1.5em;
+  }
+
+  .elementor-accordion .elementor-tab-content {
+    font-size: 16px;
+  }
+
+  div.wpcf7 .form-style-4.appointment-form .des {
+    margin-bottom: 15px;
+  }
+  div.wpcf7 .form-style-4.appointment-form h3 {
+    margin: 0 0 10px 0;
+  }
+  div.wpcf7 .form-style-4.appointment-form .wpcf7-submit-style .wpcf7-submit {
+    padding: 15px 30px 15px 60px !important;
+    font-size: 13px;
+  }
+  div.wpcf7 .form-style-4.appointment-form > div.last {
+    margin-bottom: 20px;
+  }
+  div.wpcf7 .form-style-4.appointment-form .wpcf7-not-valid + .wpcf7-not-valid-tip {
+    margin-top: 1px;
+  }
+}
+@media (max-width: 767px) {
+  .footer_wrap .sc_layouts_row_type_compact .sc_socials.sc_socials_names:not(.alter) .socials_wrap .social_item + .social_item {
+    margin-top: 8px;
+  }
+
+  .sc_icons_divider3 .sc_icons_item {
+    padding: 2em 1.3em;
+  }
+
+  .sc_icons .sc_icons_item_description {
+    font-size: 15px;
+  }
+
+  .sc_icons_creative .sc_icons_icon + .sc_icons_item_details,
+  .sc_icons_creative .sc_icons_image + .sc_icons_item_details {
+    margin-top: 1em;
+  }
+
+  .sc_testimonials_hover .slider_outer.slider_outer_pagination_pos_bottom_outside .swiper-pagination-bullets,
+  .sc_testimonials_hover .sc_item_slider.slider_outer_pagination_pos_bottom .swiper-pagination {
+    margin-top: 1em;
+  }
+}
+@media (max-width: 479px) {
+  .elementor-accordion .elementor-tab-content {
+    font-size: 15px;
+  }
+
+  .sc_services .sc_services_item_content {
+    font-size: 15px;
+  }
+
+  .sc_services_strange .sc_services_item_text {
+    font-size: 15px;
+  }
+
+  .sc_services_panel .sc_services_item:before,
+  .sc_services_panel .trx_addons_column-1_2-mobile .sc_services_item:before,
+  .sc_services_panel .trx_addons_column-1_2-tablet .sc_services_item:before {
+    padding-top: 40%;
+  }
+
+  div.wpcf7 .form-style-4.appointment-form .wpcf7-submit-style .wpcf7-submit {
+    padding: 13px 25px 13px 25px !important;
+    font-size: 13px;
+  }
+  div.wpcf7 .form-style-4.appointment-form .submit-style-in:before {
+    display: none;
+  }
+  div.wpcf7 .form-style-4.appointment-form .wpcf7-spinner,
+  div.wpcf7 .form-style-4.appointment-form .ajax-loader {
+    margin: 5px 0 -20px 0;
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=extra-style.css.map */
